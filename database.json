@@ -162,6 +162,21 @@
       "id": 7,
       "name": "James Woods",
       "specialty": "iPhone"
+    },
+    {
+      "name": "Marry Poppins",
+      "specialty": "Mice and Keyboards",
+      "id": 8
+    },
+    {
+      "name": "William Wilson",
+      "specialty": "Android",
+      "id": 9
+    },
+    {
+      "name": "Garry Kellerson",
+      "specialty": "Linux",
+      "id": 10
     }
   ],
   "serviceTickets": [
@@ -202,7 +217,7 @@
       "customerId": 15,
       "employeeId": 1,
       "emergency": "false",
-      "description": "Dropped in swimming pool and rice trick didn't work.",
+      "description": "Dropped iPhone in swimming pool and rice trick didn't work.",
       "dateCompleted": "2021-03-10"
     },
     {
@@ -244,6 +259,30 @@
       "emergency": "false",
       "description": "Scanner glass cracked.",
       "dateCompleted": "2022-02-04"
+    },
+    {
+      "description": "Why can't I get on wifi",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 11
+    },
+    {
+      "description": "StreamDeck is not working properly with Zoom",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 12
+    },
+    {
+      "description": "My magic keyboard on my Macbook is just smoke and mirrors.",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 13
     }
   ]
 }
