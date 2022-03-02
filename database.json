@@ -184,7 +184,7 @@
       "id": 1,
       "customerId": 4,
       "employeeId": 1,
-      "emergency": "true",
+      "emergency": true,
       "description": "iPhone case cracked. Please replace.",
       "dateCompleted": "2021-05-26"
     },
@@ -192,7 +192,7 @@
       "id": 2,
       "customerId": 7,
       "employeeId": 4,
-      "emergency": "true",
+      "emergency": true,
       "description": "Cannot connect to any wifi.",
       "dateCompleted": ""
     },
@@ -200,7 +200,7 @@
       "id": 3,
       "customerId": 3,
       "employeeId": 4,
-      "emergency": "false",
+      "emergency": false,
       "description": "Volume stuck at max level.",
       "dateCompleted": ""
     },
@@ -208,7 +208,7 @@
       "id": 4,
       "customerId": 11,
       "employeeId": 6,
-      "emergency": "false",
+      "emergency": false,
       "description": "SD card stuck in port.",
       "dateCompleted": "2021-07-07"
     },
@@ -216,7 +216,7 @@
       "id": 5,
       "customerId": 15,
       "employeeId": 1,
-      "emergency": "false",
+      "emergency": false,
       "description": "Dropped iPhone in swimming pool and rice trick didn't work.",
       "dateCompleted": "2021-03-10"
     },
@@ -224,15 +224,15 @@
       "id": 6,
       "customerId": 6,
       "employeeId": 2,
-      "emergency": "true",
+      "emergency": true,
       "description": "HP6500PN spitting out random sheets of PII/HIPAA data.",
-      "dateCompleted": ""
+      "dateCompleted": "2022-01-19"
     },
     {
       "id": 7,
       "customerId": 18,
       "employeeId": 5,
-      "emergency": "true",
+      "emergency":  true,
       "description": "Only holds charge for 1 hour.",
       "dateCompleted": "2021-06-16"
     },
@@ -240,7 +240,7 @@
       "id": 8,
       "customerId": 8,
       "employeeId": 4,
-      "emergency": "false",
+      "emergency": false,
       "description": "Touchpad not working with three-finger motions.",
       "dateCompleted": "2021-06-01"
     },
@@ -248,7 +248,7 @@
       "id": 9,
       "customerId": 17,
       "employeeId": 3,
-      "emergency": "true",
+      "emergency": true,
       "description": "Infected with ransomware.",
       "dateCompleted": "2021-08-11"
     },
@@ -256,7 +256,7 @@
       "id": 10,
       "customerId": 10,
       "employeeId": 2,
-      "emergency": "false",
+      "emergency": false,
       "description": "Scanner glass cracked.",
       "dateCompleted": "2022-02-04"
     },
@@ -283,6 +283,46 @@
       "employeeId": 1,
       "dateCompleted": "",
       "id": 13
+    },
+    {
+      "description": "wtf",
+      "emergency": true,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "2022-02-28",
+      "id": 14
+    },
+    {
+      "description": "broken",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 15
+    },
+    {
+      "description": "",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 16
+    },
+    {
+      "description": "Test ticket again",
+      "emergency": true,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 17
+    },
+    {
+      "description": "iPhone screen cracked",
+      "emergency": false,
+      "customerId": 21,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 18
     }
   ]
 }
