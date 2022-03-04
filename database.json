@@ -125,6 +125,12 @@
       "name": "James K. Polk",
       "address": "1600 Pennsylvania Ave",
       "id": 21
+    },
+    {
+      "name": "John",
+      "address": "123 Main St",
+      "email": "john@john.com",
+      "id": 22
     }
   ],
   "employees": [
@@ -177,6 +183,21 @@
       "name": "Garry Kellerson",
       "specialty": "Linux",
       "id": 10
+    },
+    {
+      "name": "Betty Crocker",
+      "specialty": "Everything IT",
+      "id": 11
+    },
+    {
+      "name": "Thor Gundersen",
+      "specialty": "Android",
+      "id": 12
+    },
+    {
+      "name": "Benny Joon",
+      "specialty": "IT",
+      "id": 13
     }
   ],
   "serviceTickets": [
@@ -232,7 +253,7 @@
       "id": 7,
       "customerId": 18,
       "employeeId": 5,
-      "emergency":  true,
+      "emergency": true,
       "description": "Only holds charge for 1 hour.",
       "dateCompleted": "2021-06-16"
     },
