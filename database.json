@@ -218,14 +218,6 @@
       "dateCompleted": ""
     },
     {
-      "id": 3,
-      "customerId": 3,
-      "employeeId": 4,
-      "emergency": false,
-      "description": "Volume stuck at max level.",
-      "dateCompleted": ""
-    },
-    {
       "id": 4,
       "customerId": 11,
       "employeeId": 6,
@@ -258,38 +250,6 @@
       "dateCompleted": "2021-06-16"
     },
     {
-      "id": 8,
-      "customerId": 8,
-      "employeeId": 4,
-      "emergency": false,
-      "description": "Touchpad not working with three-finger motions.",
-      "dateCompleted": "2021-06-01"
-    },
-    {
-      "id": 9,
-      "customerId": 17,
-      "employeeId": 3,
-      "emergency": true,
-      "description": "Infected with ransomware.",
-      "dateCompleted": "2021-08-11"
-    },
-    {
-      "id": 10,
-      "customerId": 10,
-      "employeeId": 2,
-      "emergency": false,
-      "description": "Scanner glass cracked.",
-      "dateCompleted": "2022-02-04"
-    },
-    {
-      "description": "Why can't I get on wifi",
-      "emergency": false,
-      "customerId": 21,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 11
-    },
-    {
       "description": "StreamDeck is not working properly with Zoom",
       "emergency": false,
       "customerId": 21,
@@ -298,52 +258,36 @@
       "id": 12
     },
     {
+      "customerId": 19,
+      "employeeId": 9,
       "description": "My magic keyboard on my Macbook is just smoke and mirrors.",
       "emergency": false,
-      "customerId": 21,
-      "employeeId": 1,
       "dateCompleted": "",
       "id": 13
     },
     {
-      "description": "wtf",
-      "emergency": true,
-      "customerId": 21,
-      "employeeId": 1,
-      "dateCompleted": "2022-02-28",
+      "customerId": 22,
+      "employeeId": 11,
+      "description": "jaskfjskjfwjekjrjerjejkwjkew6666",
+      "emergency": false,
+      "dateCompleted": "",
       "id": 14
     },
     {
-      "description": "broken",
+      "description": "plpopopoopoooppopoooopppppp999999",
       "emergency": false,
-      "customerId": 21,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 15
-    },
-    {
-      "description": "",
-      "emergency": false,
-      "customerId": 21,
+      "customerId": 22,
       "employeeId": 1,
       "dateCompleted": "",
       "id": 16
     },
     {
-      "description": "Test ticket again",
-      "emergency": true,
-      "customerId": 21,
-      "employeeId": 1,
+      "customerId": 22,
+      "employeeId": 4,
+      "description": "dededdedededededeeedededede88888888",
+      "emergency": false,
       "dateCompleted": "",
       "id": 17
-    },
-    {
-      "description": "iPhone screen cracked",
-      "emergency": false,
-      "customerId": 21,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 18
     }
   ]
 }
